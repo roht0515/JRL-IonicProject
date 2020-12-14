@@ -1,0 +1,8 @@
+{
+  "name": "JRL-Library",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "e7eaa824"
+}

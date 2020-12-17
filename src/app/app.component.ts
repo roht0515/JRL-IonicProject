@@ -33,8 +33,6 @@ export class AppComponent implements OnInit {
       icon: 'person'
     },
   ];
-  //public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
-
   constructor(
     private platform: Platform,
     private splashScreen: SplashScreen,
